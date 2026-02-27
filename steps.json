@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "target": "red_plain_2x4",
+    "guide": "1단계: 빨간색 꼬리(red_plain_2x4)를 놓으세요."
+  },
+  {
+    "step": 2,
+    "target": "pink_plain_2x4",
+    "guide": "2단계: 분홍색 몸통(pink_plain_2x4)을 연결하세요."
+  },
+  {
+    "step": 3,
+    "target": "white_plain_2x4",
+    "guide": "3단계: 하얀색 부분(white_plain_2x4)을 올리세요."
+  },
+  {
+    "step": 4,
+    "target": "red_fish_head",
+    "guide": "4단계: 마지막으로 머리(red_fish_head)를 붙여 완성하세요!"
+  }
+]
